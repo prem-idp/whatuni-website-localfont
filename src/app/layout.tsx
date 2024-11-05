@@ -7,7 +7,7 @@ const geistSans = localFont({
   variable: "--font-geist-sans",
   weight: "100 900",
 });
-export const farroMedium = localFont({
+const farroMedium = localFont({
   src: [
       {path: './fonts/Farro-Medium.woff'},
       {path: './fonts/Farro-Medium.woff2'}
